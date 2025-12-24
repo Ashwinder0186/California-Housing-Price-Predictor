@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Model Files
+model.pkl
+pipeline.pkl
+
+# Generated Data Files
+input.csv
+output.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.spyderproject
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
